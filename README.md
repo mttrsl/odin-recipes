@@ -1,1 +1,2 @@
 This project is an Odin Project HTML project where I will used basic HTML syntax to create a webpage that displays recipes. I will include a basic HTML layout, using titles, paragraphs, lists, links and images.
+I have now updated the file with some basic CSS elements.
